@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from flask import Flask, jsonify, request
 import dental_scrapper
 from flask_cors import CORS
